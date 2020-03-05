@@ -12,7 +12,6 @@ import org.springframework.web.servlet.view.JstlView;
 import org.springframework.web.servlet.view.freemarker.FreeMarkerConfigurer;
 import org.springframework.web.servlet.view.freemarker.FreeMarkerViewResolver;
 
-import java.io.IOException;
 
 @Configuration
 @ComponentScan("ru.itis.rkhasanov.controllers")

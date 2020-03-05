@@ -9,5 +9,8 @@
 </head>
 <body>
     <h1>Welcome, ${name}</h1>
+    <#list users as user>
+        <h3>${user}</h3>
+    </#list>
 </body>
 </html>
